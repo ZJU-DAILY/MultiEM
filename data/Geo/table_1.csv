@@ -1,0 +1,775 @@
+tid,name,longtitude,latitude
+755,"Petra",,
+756,"Cordoba, Spain",,
+757,"San Jose, California",,
+758,"Killington, Vermont",,
+759,"Zihuatanejo",-101.551,17.6367
+760,"Hiroshima",132.476,34.3981
+761,"Kathmandu",85.3333,27.7
+762,"Ayodhya",82.2,26.8
+763,"Espanola, New Mexico",,
+764,"Chachapoyas, Peru",,
+765,"Toledo, Spain",,
+766,"Lisbon",-9.13939,38.7138
+767,"Punta Cana",-68.3667,18.5333
+768,"Lhasa",91.1,29.65
+769,"Ushuaia",-68.3,-54.8
+770,"Chengdu",104.067,30.6636
+771,"Plainsboro Township, New Jersey",,
+772,"Paterson, New Jersey",,
+773,"Mahmudiya (district)",,
+774,"Copenhagen",12.5683,55.6761
+775,"Niagara-on-the-Lake",-79.0717,43.2553
+776,"Guimaraes",,
+777,"Strasbourg",7.74861,48.5844
+778,"Colmar",7.35556,48.0817
+779,"Trieste",13.8,45.6333
+780,"Xalapa",-96.9275,19.54
+781,"Hot Springs, Arkansas",,
+782,"Bangkok",100.494,13.7522
+783,"Middletown, Connecticut",,
+784,"Dujiangyan City",103.5,30.9
+785,"Aveiro, Portugal",,
+786,"Kolkata",88,22
+787,"Long Beach, New York",,
+788,"San Cristobal de las Casas",,
+789,"Bayreuth",11.5783,49.9481
+790,"Lockerbie",-3.357,55.12
+791,"Monteverde",-84.825,10.3143
+792,"Parma",10.3333,44.8
+793,"Fontainebleau",2.7025,48.4097
+794,"Ulyanovsk",48.3667,54.3167
+795,"Fes",-5,34.0333
+796,"Chinatown, Manhattan",,
+797,"Lucca",10.5,43.85
+798,"Cahuita",-82.8456,9.73889
+799,"Curitiba",-49.25,-25.4167
+800,"Sochi",39.7203,43.5853
+801,"Nassau, Bahamas",,
+802,"Port Elizabeth",25.6,-33.9581
+803,"Sintra",,
+804,"Killarney",-9.5072,52.0588
+805,"Antigua Guatemala",-90.7333,14.5667
+806,"Cortona",11.9881,43.2756
+807,"Padua",11.8667,45.4167
+808,"Mumbai",72.8258,18.975
+809,"Brisbane",153.028,27.4678
+810,"Ocean City, New Jersey",,
+811,"Jena, Louisiana",,
+812,"Saint-Tropez",6.63962,43.2733
+813,"Arosa",9.68333,46.7833
+814,"Grasse",6.9167,43.6667
+815,"Garment District, Manhattan",,
+816,"Orleans",,
+817,"Battery Park City",-74.0157,40.7127
+818,"San Juan, Puerto Rico",,
+819,"Granada, Nicaragua",,
+820,"Ankara",32.8333,39.8667
+821,"Saugatuck, Michigan",,
+822,"Pawling (town), New York",,
+823,"Providence, Rhode Island",,
+824,"San Miguel de Allende",-100.744,20.9142
+825,"Simi Valley, California",-118.739,34.2711
+826,"Hyannis, Massachusetts",,
+827,"Honfleur",0.2325,49.4194
+828,"Baden-Baden",8.24083,48.7628
+829,"Oranienburg",13.2369,52.7544
+830,"Kunming",102.705,25.0417
+831,"Salt Lake City",-111.883,40.75
+832,"San Francisco",-122.419,37.7793
+833,"Shanksville, Pennsylvania",,
+834,"Lake Louise, Alberta",,
+835,"Red Hook, Brooklyn",,
+836,"Pucon",,
+837,"Bursa",29.0667,40.1833
+838,"Minneapolis",-93.2667,44.9833
+839,"Richmond, Virginia",,
+840,"Zrich",,
+841,"Sheepshead Bay, Brooklyn",,
+842,"Puntarenas",-84.8333,9.96667
+843,"Matsumoto, Nagano",,
+844,"Hermanus",19.25,-34.4167
+845,"Cobble Hill, Brooklyn",,
+846,"Panama City",-79.5167,8.98333
+847,"Luxembourg (city)",6.13,49.6117
+848,"Darwin, Northern Territory",,
+849,"Nafplion",,
+850,"Crans-Montana",7.48278,46.3119
+851,"Biarritz",-1.55611,43.4817
+852,"Klosters",9.88333,46.8833
+853,"Prospect Heights, Brooklyn",,
+854,"Salzburg",13.0333,47.8
+855,"Birmingham",-1.89361,52.4796
+856,"Zermatt",7.75,46.0167
+857,"Hobart",147.325,-42.8667
+858,"Munich",11.5667,48.1333
+859,"Nelson, British Columbia",,
+860,"Tikal",-89.6236,17.2221
+861,"Napa, California",,
+862,"Macon, Georgia",,
+863,"Charlotte Amalie, United States Virgin Islands",,
+864,"Lugano",8.95,46
+865,"Hoffenheim",8.84444,49.2722
+866,"Bedford-Stuyvesant, Brooklyn",,
+867,"Portsmouth, New Hampshire",,
+868,"Revelstoke, British Columbia",,
+869,"Natal, Rio Grande do Norte",,
+870,"Giza Necropolis",31.1328,29.9761
+871,"Dubrovnik",18.1083,42.6403
+872,"Goreme",,
+873,"Hamilton Heights",,
+874,"Golfito",-83.1619,8.63432
+875,"Wengen",7.91667,46.6
+876,"Delft",4.35667,52.015
+877,"Diamond District",-73.9806,40.7575
+878,"Salem, Massachusetts",,
+879,"Saas-Fee",7.92917,46.1097
+880,"Nairobi",36.8167,-1.28333
+881,"Phnom Penh",104.917,11.55
+882,"Agra",78.02,27.18
+883,"Queens",-73.9178,40.7042
+884,"Granada",-3.60083,37.1781
+885,"Marfa, Texas",,
+886,"Galway",-9.04889,53.2719
+887,"Chennai",80.27,13.0839
+888,"Estoril",-9.39778,38.7061
+889,"Shanghai",121.5,31.2
+890,"Jackson, Mississippi",,
+891,"Sandwich, Massachusetts",,
+892,"Red Bank, New Jersey",,
+893,"Jerusalem",35.2167,31.7833
+894,"Palermo",13.3667,38.1167
+895,"Edinburgh",-3.16028,55.9494
+896,"Sydney",151.211,-33.86
+897,"Jersey City, New Jersey",,
+898,"Manila",121,14.5833
+899,"Lagos",3.39583,6.45306
+900,"Mombasa",39.6667,-4.05
+901,"Rome",12.5,41.9
+902,"Buenos Aires",-58.3817,-34.6033
+903,"Maspeth, Queens",,
+904,"Taipei",121.633,25.0333
+905,"Vezelay",,
+906,"Cortina d'Ampezzo",12.1333,46.5333
+907,"La Rochelle",-1.15165,46.1591
+908,"Monhegan, Maine",,
+909,"Mendoza, Argentina",,
+910,"Short Hills, New Jersey",,
+911,"San Diego",-117.162,32.715
+912,"Najaf",44.33,32
+913,"Kaesong",126.55,37.9667
+914,"Ramadi",43.3,33.4167
+915,"Bath, Somerset",,
+916,"Portland, Oregon",,
+917,"Rye Brook, New York",,
+918,"Calgary",-114.057,51.045
+919,"Dresden",13.7333,51.0333
+920,"Montreal",-73.5542,45.5089
+921,"Beslan",44.5667,43.2
+922,"Bruges",3.23333,51.2167
+923,"Verona",10.9833,45.4333
+924,"Kandahar",65.7169,31.6169
+925,"Raleigh, North Carolina",,
+926,"New Castle, New York",,
+927,"Limoges",1.2625,45.8353
+928,"Interlaken",7.85,46.6833
+929,"Potsdam",13.0667,52.4
+930,"Amsterdam",4.89222,52.3731
+931,"Qingdao",120.383,36.0667
+932,"Kanazawa, Ishikawa",,
+933,"Millerton, New York",,
+934,"Lecce",18.1667,40.35
+935,"Autun",4.29944,46.9517
+936,"Segovia",-4.16667,40.95
+937,"Reno, Nevada",,
+938,"Les Eyzies-de-Tayac-Sireuil",1.01805,44.936
+939,"Long Beach, California",,
+940,"Rockaway Beach, Queens",,
+941,"Almagro, Ciudad Real",,
+942,"Bhopal",77.42,23.25
+943,"Chappaqua, New York",,
+944,"Garrison, New York",,
+945,"Valencia, Spain",,
+946,"Oxnard, California",,
+947,"Bay Ridge, Brooklyn",,
+948,"Houston",-95.3831,29.7628
+949,"Clarence Center, New York",,
+950,"Annecy",6.133,45.916
+951,"Bucharest",26.1039,44.4325
+952,"Auckland",174.74,-36.8404
+953,"Tel Aviv",34.7833,32.0833
+954,"Myrtle Beach, South Carolina",,
+955,"Mashpee, Massachusetts",,
+956,"New Bedford, Massachusetts",,
+957,"Sleepy Hollow, New York",,
+958,"Silverton, Colorado",-107.663,37.8125
+959,"Vienna",16.3731,48.2089
+960,"Malmo",,
+961,"York",-1.08028,53.9583
+962,"Bayeux",-0.702778,49.2794
+963,"Saratoga Springs, New York",,
+964,"Cascais",,
+965,"Guadalupe, Baja California",,
+966,"Lanai",-156.933,20.8333
+967,"Florianopolis",,
+968,"Malaga",,
+969,"Gothenburg",11.9667,57.7
+970,"Deer Isle, Maine",,
+971,"Fortaleza",-38.5748,-3.7737
+972,"Pisa",10.4,43.7167
+973,"Jamaica, Queens",,
+974,"Peekskill, New York",,
+975,"Kobe",135.2,34.6833
+976,"Hanoi",105.85,21.0333
+977,"Samthar",78.9167,25.85
+978,"Natchez, Mississippi",,
+979,"Kansas City, Missouri",,
+980,"Hakone, Kanagawa",,
+981,"La Paz",-68.1333,-16.5
+982,"Paris, Texas",,
+983,"San Sebastian",,
+984,"Hanau",8.91667,50.1333
+985,"Santa Cruz (miasto w Boliwii)",-63.1667,-17.8
+986,"Lafayette, Louisiana",,
+987,"Siem Reap",103.86,13.3622
+988,"Eilat",,
+989,"Alajuela",-84.2167,10.0167
+990,"Port Jefferson, New York",,
+991,"Puerto Vallarta",-105.267,20.6667
+992,"Geneva",6.15,46.2
+993,"Oakland, California",,
+994,"Pensacola, Florida",,
+995,"Las Cruces, New Mexico",,
+996,"Sarasota, Florida",,
+997,"Khartoum",32.5331,15.6333
+998,"Siwa Oasis",25.55,29.1833
+999,"Bergama",27.1833,39.1167
+1000,"Ocracoke, North Carolina",,
+1001,"Osaka",135.502,34.6937
+1002,"Liverpool",-2.98333,53.4
+1003,"New Delhi",77,28
+1004,"Milford, Connecticut",,
+1005,"Turin",7.7,45.0667
+1006,"Corona, Queens",,
+1007,"Canberra",149.124,-35.3081
+1008,"Chartres",1.48418,48.4558
+1009,"Xi'an",108.9,34.2667
+1010,"Beverley",-0.427,53.845
+1011,"Darjeeling",88.16,27.03
+1012,"Chengde",117.933,40.9667
+1013,"Dragør",12.6667,55.5833
+1014,"Lausanne",6.6335,46.5198
+1015,"Rotorua",176.251,-38.1378
+1016,"Portofino",9.20778,44.3039
+1017,"Petropolis",,
+1018,"St Mawes (UK Parliament constituency)",,
+1019,"Rio de Janeiro",-43.1771,-22.9054
+1020,"Arezzo",11.87,43.4733
+1021,"Juneau, Alaska",,
+1022,"Omaha, Nebraska",,
+1023,"Florence",11.25,43.7833
+1024,"Tlaxcala",-98.1608,19.4289
+1025,"New York City",-74.0059,40.7127
+1026,"Metuchen, New Jersey",,
+1027,"Savannah, Georgia",,
+1028,"Santa Monica, California",,
+1029,"Marrakech",-8,31.6333
+1030,"Dingle",-10.2715,52.1399
+1031,"Mystic, Connecticut",,
+1032,"Aubusson, Creuse",,
+1033,"San Jose del Cabo",,
+1034,"San Luis Obispo, California",,
+1035,"Manhattan",-73.9597,40.7903
+1036,"Vientiane",102.6,17.9667
+1037,"Ithaca, New York",,
+1038,"Dublin",-6.25972,53.3478
+1039,"Brighton",-0.131312,50.8429
+1040,"Greenwich",0,51.4791
+1041,"Amman",35.9328,31.9333
+1042,"Rovinj",13.6333,45.0833
+1043,"Zagreb",15.9833,45.8167
+1044,"Hua Hin",,
+1045,"Stuttgart",9.17944,48.7786
+1046,"Oxford, Mississippi",,
+1047,"Helsinki",,
+1048,"Caratinga",-42.1333,-19.625
+1049,"Falmouth, Massachusetts",,
+1050,"Long Island City, Queens",,
+1051,"Casablanca",-7.58333,33.5333
+1052,"Quebec City",-71.2167,46.8167
+1053,"Sacramento, California",,
+1054,"Chernobyl",30.2242,51.2722
+1055,"Krakow",,
+1056,"Riga",24.1064,56.9489
+1057,"Sedona, Arizona",,
+1058,"Armonk, New York",,
+1059,"Islamabad",73.04,33.43
+1060,"Kabul",69.1661,34.5331
+1061,"Budapest",19.0503,47.4719
+1062,"Venice",12.3358,45.4375
+1063,"Tirana",19.816,41.326
+1064,"Recife",-34.9,-8.05
+1065,"Ras al-Khaimah",55.95,25.7833
+1066,"Soweto",27.8658,-26.2661
+1067,"Mendocino, California",,
+1068,"Corinth",,
+1069,"Reykjavik",,
+1070,"Rincon, Puerto Rico",,
+1071,"Brzezinka",19.1814,50.0447
+1072,"Lahinch",-9.345,52.937
+1073,"Key West, Florida",,
+1074,"Santiago, Chile",,
+1075,"Cairo",31.2289,30.0581
+1076,"Palm Springs, California",,
+1077,"Franschhoek",19.1333,-33.9167
+1078,"Adelaide",138.601,-34.929
+1079,"Brussels",4.35,50.85
+1080,"Mott Haven, Bronx",,
+1081,"Udaipur",73.68,24.58
+1082,"Cannes",7.01275,43.5513
+1083,"The Hague",4.31667,52.0833
+1084,"Belgrade",20.4622,44.8206
+1085,"Pittsburgh",-80,40.6388
+1086,"Jackson Heights, Queens",,
+1087,"Perth, Western Australia",,
+1088,"Newark, New Jersey",,
+1089,"Poughkeepsie, New York",,
+1090,"Vladivostok",131.9,43.1333
+1091,"Haines, Alaska",,
+1092,"Rochester, New York",,
+1093,"Ronda",-5.16472,36.7372
+1094,"Huntsville, Alabama",,
+1095,"Luang Prabang",102.133,19.8833
+1096,"Mont-Tremblant, Quebec",,
+1097,"Lower East Side",-73.9897,40.7172
+1098,"Nantes",-1.55278,47.2181
+1099,"Mammoth Lakes, California",,
+1100,"Millau",3.07833,44.0986
+1101,"Sderot",,
+1102,"Prague",14.4167,50.0833
+1103,"St Ives, Cornwall",,
+1104,"Santa Ynez, California",,
+1105,"Sihanoukville",103.5,10.6333
+1106,"Urumqi",,
+1107,"Thessaloniki",22.9,40.65
+1108,"Orvieto",12.1,42.7167
+1109,"Jakarta",106.8,-6.2
+1110,"Essaouira",-9.76972,31.5131
+1111,"Amagansett, New York",,
+1112,"Hong Kong",114.159,22.2783
+1113,"Jamesport, New York",,
+1114,"Miami",-80.2242,25.7878
+1115,"North Salem, New York",,
+1116,"Malindi",40.1167,-3.21667
+1117,"New Paltz (village), New York",,
+1118,"Istanbul",28.9667,41.0122
+1119,"Haditha",42.3781,34.1397
+1120,"Fujairah",56.3333,25.2667
+1121,"London",-0.1275,51.5072
+1122,"Dalian",121.639,38.9208
+1123,"Knoxville, Tennessee",,
+1124,"Siena",11.3306,43.3186
+1125,"Moscow",37.6178,55.7517
+1126,"Santa Barbara, California",,
+1127,"Kips Bay",-73.9783,40.7414
+1128,"Kashgar",75.9833,39.4667
+1129,"Broome, Western Australia",,
+1130,"Tours",0.689167,47.3936
+1131,"Amalfi",14.6,40.6333
+1132,"Antwerp",4.4,51.2167
+1133,"Naypyidaw",96.1,19.75
+1134,"Cabo San Lucas",-109.916,22.8897
+1135,"Chiang Mai",98.9986,18.7953
+1136,"Cadiz",-6.28333,36.5333
+1137,"Tallinn",24.7453,59.4372
+1138,"Vilnius",25.2833,54.6833
+1139,"Greenburgh, New York",,
+1140,"Ferrara",11.6167,44.8333
+1141,"Las Vegas, Nevada",,
+1142,"Athenry (Parliament of Ireland constituency)",,
+1143,"Isle of Palms, South Carolina",,
+1144,"New Castle, Delaware",,
+1145,"Doha",51.5333,25.2867
+1146,"Auxerre",3.5672,47.7986
+1147,"Gansbaai",19.3522,-34.5828
+1148,"Marathon, Florida",,
+1149,"Pasadena, California",,
+1150,"Dijon",5.04139,47.2906
+1151,"Scituate, Massachusetts",,
+1152,"Regensburg",12.0833,49.0167
+1153,"Catano, Puerto Rico",,
+1154,"Stellenbosch",18.86,-33.92
+1155,"St. Moritz",9.83333,46.5
+1156,"Dharamsala",76.3172,32.0728
+1157,"Hollywood, Los Angeles, California",,
+1158,"Patzcuaro",,
+1159,"Pawleys Island, South Carolina",,
+1160,"New Brunswick, New Jersey",,
+1161,"Sadr City",44.4583,33.3889
+1162,"Porto",-8.61,41.1497
+1163,"Patchogue, New York",,
+1164,"Monopoli",17.3,40.95
+1165,"Acapulco",-99.8825,16.8636
+1166,"Berchtesgaden",13.0042,47.6314
+1167,"Punta del Este",-54.95,-34.9667
+1168,"Norwalk, Connecticut",,
+1169,"Leavenworth, Washington",,
+1170,"Belfast",-5.93,54.597
+1171,"El Chalten",,
+1172,"Hyderabad, India",,
+1173,"Salida, Colorado",,
+1174,"San Pedro de Atacama",-68.2,-22.9167
+1175,"Huntington Station, New York",,
+1176,"El Calafate",-72.25,-50.3333
+1177,"Dominical",-83.8667,9.25
+1178,"Montecito, California",,
+1179,"Hopewell Junction, New York",,
+1180,"Milford, Pennsylvania",,
+1181,"Naples",14.25,40.8333
+1182,"Seoul",126.977,37.5689
+1183,"Nantucket, Massachusetts",,
+1184,"Kalkan",29.4083,36.2581
+1185,"Punta Gorda, Florida",,
+1186,"Edirne",26.5667,41.6667
+1187,"Messene",,
+1188,"New Orleans",-90.0706,29.9647
+1189,"Missoula, Montana",,
+1190,"Bordeaux",-0.578333,44.8386
+1191,"Oxford, Connecticut",,
+1192,"Quito",-78.5833,-0.25
+1193,"Scranton, Pennsylvania",,
+1194,"Basra",47.8167,30.5
+1195,"Hood River, Oregon",,
+1196,"Ocean City, Maryland",,
+1197,"Inwood, Manhattan",,
+1198,"KwaZulu-Natal",30.5764,-30.5764
+1199,"Belize City",-88.1833,17.4833
+1200,"Milwaukee",-87.9558,43.0522
+1201,"Indianapolis",-86.1582,39.7683
+1202,"Huntington Beach, California",,
+1203,"Cambridge",0.1225,52.2081
+1204,"Cologne",6.96667,50.95
+1205,"Mosul",43.1167,36.3667
+1206,"Laguna Beach, California",,
+1207,"Cahors",1.44139,44.4483
+1208,"Southampton",-1.40416,50.897
+1209,"Pyongyang",125.738,39.0194
+1210,"Brooklyn Heights, Brooklyn",,
+1211,"Saint Petersburg",30.3167,59.95
+1212,"Playa Zancudo",-83.1467,8.54405
+1213,"Puducherry",79.83,11.93
+1214,"Millbrook, New York",,
+1215,"Ajman",55.5,25.4167
+1216,"Verdun",5.38759,49.162
+1217,"Scottsdale, Arizona",,
+1218,"Ogunquit, Maine",,
+1219,"Kyoto",135.768,35.0116
+1220,"Varanasi",82.9563,25.282
+1221,"Sofia",23.3333,42.7
+1222,"Seward, Alaska",,
+1223,"Fukuoka",130.4,33.5833
+1224,"Sucre",-65.2626,-19.0339
+1225,"Provincetown, Massachusetts",,
+1226,"Shenzhen",114.1,22.55
+1227,"Pawtucket, Rhode Island",,
+1228,"Davos",9.83333,46.8
+1229,"Szeged",20.145,46.255
+1230,"Zanzibar",39.3167,-6.13333
+1231,"Alkmaar",4.75,52.6333
+1232,"Islip (town), New York",,
+1233,"Ouro Preto",-43.5036,-20.3853
+1234,"Santa Fe, New Mexico",,
+1235,"Girona",2.82111,41.9844
+1236,"Qom",50.8833,34.65
+1237,"Ludlow (town), Vermont",,
+1238,"Urgup",,
+1239,"Cirencester",-1.968,51.719
+1240,"Durban",31.05,-29.8833
+1241,"Blackpool",-3.05028,53.8142
+1242,"Seneca Falls (village), New York",,
+1243,"Mantua",10.8,45.1667
+1244,"Athens",,
+1245,"Mazatlan",,
+1246,"Madison, Connecticut",,
+1247,"Gaiman, Chubut",,
+1248,"Pittsfield, Massachusetts",,
+1249,"Timbuktu",-3.00944,16.7758
+1250,"Guilin",110.283,25.2667
+1251,"Newport, Rhode Island",,
+1252,"Bergen",5.33,60.3894
+1253,"Manchester",-2.23333,53.4667
+1254,"Ogden, Utah",,
+1255,"New Haven, Connecticut",,
+1256,"Kent, Connecticut",,
+1257,"Norfolk, Virginia",,
+1258,"Oslo",10.7564,59.9494
+1259,"Toulouse",1.44403,43.6045
+1260,"Ravenna",12.2,44.4167
+1261,"Ixtapa",-101.551,17.6367
+1262,"Oklahoma City",-97.5352,35.4823
+1263,"Cork (city)",-8.47,51.8972
+1264,"Cuernavaca",-99.2267,18.9186
+1265,"Bern",7.43958,46.9524
+1266,"Cleveland, Ohio",,
+1267,"Falls Village, Connecticut",,
+1268,"Rotterdam",4.47917,51.9217
+1269,"Kufa",44.4,32.0333
+1270,"Cartagena, Colombia",,
+1271,"Salvador, Bahia",,
+1272,"Kelowna",-119.444,49.8801
+1273,"Giverny",1.53,49.0769
+1274,"Kennebunkport, Maine",,
+1275,"Menton",7.5,43.775
+1276,"Glasgow",-4.259,55.858
+1277,"Punta Arenas",-70.9333,-53.1667
+1278,"Split (city)",,
+1279,"Lahore",74.3436,31.5497
+1280,"Cabarete",-70.4083,19.7511
+1281,"Park City, Utah",,
+1282,"Maplewood, New Jersey",,
+1283,"Palmetto, Georgia",,
+1284,"Cape Town",18.4239,-33.9253
+1285,"Berlin",13.3989,52.5006
+1286,"Dafen (town of painting replicas)",,
+1287,"Passaic, New Jersey",,
+1288,"Villarrica, Chile",,
+1289,"Da Nang",108.233,16.0667
+1290,"San Antonio",-98.5,29.4167
+1291,"Mexico City",-99.1333,19.4333
+1292,"Aix-en-Provence",5.45402,43.5311
+1293,"Sag Harbor, New York",,
+1294,"Verbier",7.21667,46.1
+1295,"North Stonington, Connecticut",,
+1296,"Cardiff",-3.18667,51.4853
+1297,"San Jose, Costa Rica",,
+1298,"Northport, New York",,
+1299,"Montclair, New Jersey",,
+1300,"Memphis, Tennessee",,
+1301,"Baghdad",44.4333,33.3333
+1302,"New Milford, Connecticut",,
+1303,"Ridgefield, Connecticut",,
+1304,"Warsaw",21.0108,52.2323
+1305,"Bristol",-2.592,51.4587
+1306,"Larchmont, New York",,
+1307,"Baqubah",44.6333,33.75
+1308,"Breezy Point, Queens",,
+1309,"Taormina",15.3,37.85
+1310,"Deauville",0.0753,49.36
+1311,"Kew Gardens, Queens",,
+1312,"Mont Saint-Michel",-1.51139,48.636
+1313,"Karbala",44.0333,32.6167
+1314,"Heidelberg",8.71,49.4122
+1315,"Nagoya",136.906,35.1815
+1316,"Bilbao",-2.92361,43.2569
+1317,"Klosterneuburg",,
+1318,"Key Largo",-80.4473,25.0865
+1319,"Jaipur",75.82,26.92
+1320,"Assisi",12.6175,43.0758
+1321,"North Adams, Massachusetts",,
+1322,"Liberia, Costa Rica",,
+1323,"Dunhuang",94.6667,40.15
+1324,"Bologna",11.3514,44.5075
+1325,"Beijing",116.38,39.9139
+1326,"Cochabamba",-66.1667,-17.3833
+1327,"Santo Domingo",-69.9833,18.5
+1328,"Leeds",-1.54917,53.7997
+1329,"Caracas",-66.9167,10.5
+1330,"La Jolla, San Diego, California",,
+1331,"Newburyport, Massachusetts",,
+1332,"New London, Connecticut",,
+1333,"Old Lyme, Connecticut",,
+1334,"Aragon",-1,41
+1335,"Santiago de Cuba",-75.8139,20.0198
+1336,"Innsbruck",11.3833,47.2667
+1337,"Mount Pleasant, New York",,
+1338,"Avignon",4.83333,43.95
+1339,"Korula",,
+1340,"Puerto Morelos",-86.8986,20.8536
+1341,"Vevey",6.85,46.4667
+1342,"Nancy",6.1846,48.6936
+1343,"Damascus",36.292,33.513
+1344,"Orleans, Massachusetts",,
+1345,"Chamonix",6.86972,45.9231
+1346,"Rawalpindi",73.0333,33.6
+1347,"Perugia",12.3889,43.1122
+1348,"Niagara Falls, Ontario",,
+1349,"Dusseldorf",,
+1350,"Pecs",,
+1351,"Versailles",,
+1352,"San German, Puerto Rico",,
+1353,"Long Branch, New Jersey",,
+1354,"Mogadishu",45.35,2.06667
+1355,"Tikrit",43.6833,34.61
+1356,"Carnac",-3.0794,47.5847
+1357,"Philadelphia",-75.17,39.95
+1358,"Kinsale",-8.53056,51.7075
+1359,"Monterey, California",,
+1360,"Abu Dhabi",54.3667,24.4667
+1361,"Saint Paul, Minnesota",,
+1362,"Bonn",7.09981,50.734
+1363,"Phoenix, Arizona",,
+1364,"Ashgabat",58.3667,37.9333
+1365,"Zaragoza",-0.883333,41.65
+1366,"Irvington, New Jersey",,
+1367,"Jacksonville, Florida",,
+1368,"Downtown Brooklyn",,
+1369,"Malibu, California",,
+1370,"Park Slope, Brooklyn",,
+1371,"Montgomery, Alabama",,
+1372,"Honolulu",-157.826,21.3089
+1373,"Armacao dos Buzios",,
+1374,"Bourges",2.39639,47.0844
+1375,"Naples, Florida",,
+1376,"Nagasaki",129.867,32.7833
+1377,"Spoleto",12.7333,42.7333
+1378,"New Canaan, Connecticut",,
+1379,"Morningside Heights, Manhattan",,
+1380,"Morelia",-101.189,19.7683
+1381,"Alice Springs, Northern Territory",,
+1382,"Orlando, Florida",,
+1383,"Shelter Island (town), New York",,
+1384,"Shimla",77,31
+1385,"Portland, Maine",,
+1386,"Lyon",4.84222,45.7597
+1387,"Louisville, Kentucky",,
+1388,"Manaus",-60.0167,-3.1
+1389,"Frankfurt am Main",,
+1390,"Locust Valley, New York",,
+1391,"Guangzhou",113.267,23.1333
+1392,"Valparaiso",,
+1393,"Boquete, Chiriqui",,
+1394,"Madison, Wisconsin",,
+1395,"Plovdiv",24.75,42.15
+1396,"Kuala Lumpur",101.693,3.1475
+1397,"Dunedin",170.5,-45.8667
+1398,"Yangon",96.15,16.8
+1399,"Ghent",3.73333,51.05
+1400,"Nasiriyah",46.2667,31.05
+1401,"Barcelona",2.18333,41.3833
+1402,"Dakar",-17.4467,14.6928
+1403,"Hamburg",10.0014,53.5653
+1404,"Ossining (village), New York",,
+1405,"Pattaya",100.875,12.9275
+1406,"Graz",15.4333,47.0667
+1407,"Rossville, Staten Island",,
+1408,"Bodrum",27.4333,37.0333
+1409,"Puno",-70.0236,-15.8433
+1410,"Bormio",10.3667,46.4667
+1411,"Brasilia",,
+1412,"Vina del Mar",,
+1413,"Ojai, California",,
+1414,"Amenia (town), New York",,
+1415,"Palenque",-92.0463,17.484
+1416,"Rehoboth Beach, Delaware",,
+1417,"Veracruz",-96.3831,19.4347
+1418,"Madrid",-3.68333,40.4
+1419,"Stockholm",18.0667,59.35
+1420,"Milan",9.19028,45.4642
+1421,"Basel",7.6,47.5667
+1422,"Manchester, New Hampshire",,
+1423,"Antalya",30.6833,36.9
+1424,"Johannesburg",28.0456,-26.2044
+1425,"Bogota",,
+1426,"Ottawa",-75.69,45.4208
+1427,"Karlovy Vary",12.8661,50.2283
+1428,"Nashville, Tennessee",,
+1429,"Roosevelt, New York",,
+1430,"Melbourne",144.963,37.8136
+1431,"Scarsdale, New York",,
+1432,"Hay-on-Wye",-3.13,52.08
+1433,"Palm Beach, Florida",,
+1434,"Ciudad Juarez",,
+1435,"Richland, New York",,
+1436,"Beaune",4.83972,47.025
+1437,"Akihabara",139.772,35.6973
+1438,"Rockland, Maine",,
+1439,"Santa Cruz, California",,
+1440,"Seaside, Florida",,
+1441,"Moab, Utah",,
+1442,"Sago, West Virginia",,
+1443,"Amarah",47,32
+1444,"Leipzig",12.3833,51.3333
+1445,"Seville",-5.98694,37.3772
+1446,"Merca",44.77,1.71483
+1447,"Ho Chi Minh City",106.682,10.7694
+1448,"Paris",2.35083,48.8567
+1449,"Bangalore",77.5667,12.9667
+1450,"Islamorada, Florida",,
+1451,"Oxford",-1.25778,51.7519
+1452,"Dar es Salaam",39.2833,-6.8
+1453,"Nagano, Nagano",,
+1454,"Mobile, Alabama",,
+1455,"Sharjah (emirate)",55.3833,25.4333
+1456,"Bethel, New York",,
+1457,"Seattle",-122.333,47.6097
+1458,"Bam, Iran",,
+1459,"Jaffna",80,9.66667
+1460,"Algiers",3.21667,36.7
+1461,"Niagara Falls, New York",,
+1462,"Bridgehampton, New York",,
+1463,"Ljubljana",14.5083,46.0556
+1464,"Santiago de Compostela",-8.5463,42.8804
+1465,"Mustique",-61.1833,12.8667
+1466,"Lucerne",8.3,47.05
+1467,"L'Aquila",13.4,42.35
+1468,"Luanda",13.2344,-8.83833
+1469,"Addis Ababa",38.74,9.03
+1470,"Olinda",-34.8833,-8
+1471,"Saint Michaels, Maryland",,
+1472,"Queenstown, New Zealand",,
+1473,"Bradford",-1.75206,53.8
+1474,"Sausalito, California",,
+1475,"Hanover",9.71667,52.3667
+1476,"Nice",7.26627,43.7034
+1477,"Cuenca, Ecuador",,
+1478,"Beirut",35.5131,33.8869
+1479,"Kiawah Island, South Carolina",,
+1480,"Al Anbar Governorate",41.6,32.9
+1481,"Gijon",,
+1482,"Silver City (New Mexico)",-108.274,32.7781
+1483,"Lima",-77.0283,-12.0433
+1484,"Dhaka",90.375,23.7
+1485,"Montauk, New York",,
+1486,"Samarra",43.8742,34.1983
+1487,"Alta, Utah",,
+1488,"Szentendre",19.0686,47.7044
+1489,"Freeport, Maine",,
+1490,"Yokohama",139.633,35.45
+1491,"Princeton, New Jersey",,
+1492,"Marseille",5.36995,43.2964
+1493,"Ayacucho",-74.2244,-13.1631
+1494,"Luxor",32.65,25.6833
+1495,"Dubai",55.3,25.25
+1496,"Kirkuk",44.3167,35.4667
+1497,"Genoa",8.93278,44.4111
+1498,"Sao Paulo",,
+1499,"Fallujah",43.3125,33.4197
+1500,"Hunts Point, Bronx",,
+1501,"Bamberg",10.8917,49.8917
+1502,"Tokyo",139.715,35.7006
+1503,"Kitzbuhel",,
+1504,"Ani",43.5728,40.5075
+1505,"Puerto Jimenez",,
+1506,"Manteca, California",,
+1507,"Courchevel",6.63488,45.3974
+1508,"Piermont, New York",,
+1509,"Palisades Park, New Jersey",,
+1510,"Kansas City, Kansas",,
+1511,"Lake Placid, New York",,
+1512,"Cancun",,
+1513,"Los Angeles",-118.25,34.05
+1514,"Homer, Alaska",,
+1515,"Skaneateles (town), New York",,
+1516,"Wellington",174.777,-41.2889
+1517,"New Rochelle, New York",,
+1518,"Uppsala",17.6333,59.85
+1519,"Manchester (town), Vermont",,
+1520,"Arles",4.6278,43.6767
+1521,"Punta Gorda, Belize",,
+1522,"Placencia",-88.3667,16.5139
+1523,"Belem",,
+1524,"Peshawar",71.5833,34.0167
+1525,"Aswan",32.8997,24.0889
+1526,"Cutchogue, New York",,
+1527,"Carcassonne",2.35203,43.2131
+1528,"Ocean Grove, New Jersey",,

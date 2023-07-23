@@ -1,0 +1,756 @@
+tid,name,longtitude,latitude
+0,"Petra (Jordan)",35.4833,30.3167
+1,"Prague (Czech Republic)",14.4241,50.0878
+2,"Girona (Spain)",2.82493,41.9831
+3,"San Jose (Calif)",-121.895,37.3394
+4,"Moscow (Russia)",37.6156,55.7522
+5,"Zermatt (Switzerland)",7.75,46.0167
+6,"Wengen (Switzerland)",7.91667,46.6
+7,"Savannah (Ga)",-81.0998,32.0835
+8,"Hollywood (Calif)",-118.327,34.0983
+9,"Guilin (China)",110.286,25.2819
+10,"Zihuatanejo (Mexico)",-101.55,17.6333
+11,"Ouro Preto (Brazil)",-43.5081,-20.2875
+12,"Mombasa (Kenya)",39.6667,-4.05
+13,"Vienna (Austria)",16.3721,48.2085
+14,"Pawleys Island (SC)",-79.1217,33.4296
+15,"Espanola (NM)",-106.081,35.9911
+16,"Wellington (New Zealand)",174.777,-41.2785
+17,"Ghent (Belgium)",3.71667,51.05
+18,"Puerto Vallarta (Mexico)",-105.231,20.6204
+19,"Nairobi (Kenya)",36.8167,-1.28333
+20,"Sihanoukville (Cambodia)",103.5,10.6333
+21,"Ocean City (NJ)",-74.5746,39.2776
+22,"St Mawes (England)",-5.01222,50.1594
+23,"Valparaiso (Chile)",-71.6273,-33.0393
+24,"Arosa (Switzerland)",9.66667,46.7833
+25,"Oporto (Portugal)",-8.61667,41.15
+26,"Seville (Spain)",-5.98694,37.3772
+27,"Shanghai (China)",121.458,31.2222
+28,"Scituate (Mass)",-70.7259,42.1959
+29,"Lisbon (Portugal)",-9.13333,38.7167
+30,"Patchogue (NY)",-73.0151,40.7657
+31,"Bergama (Turkey)",27.1805,39.1207
+32,"Punta Cana (Dominican Republic)",-68.4043,18.5818
+33,"Pucon (Chile)",-71.9543,-39.2822
+34,"Ras al-Khaimah (United Arab Emirates)",55.9428,25.7911
+35,"Acapulco (Mexico)",-99.8901,16.8634
+36,"Alice Springs (Australia)",133.883,-23.7
+37,"San Pedro de Atacama (Chile)",-68.2167,-22.9167
+38,"Kips Bay (NYC)",-73.9771,40.7395
+39,"Lhasa (Tibet)",91.1,29.65
+40,"Philadelphia (Pa)",-75.1638,39.9523
+41,"Seattle (Wash)",-122.332,47.6062
+42,"Gori (Georgian Republic)",44.1111,41.9736
+43,"Leavenworth (Wash)",-120.661,47.5962
+44,"Belfast (Northern Ireland)",-5.93333,54.6
+45,"El Chalten (Patagonia)",-72.93,-49.3286
+46,"Hyderabad (India)",78.4744,17.3753
+47,"Salida (Colo)",-105.999,38.5347
+48,"Huntington Station (NY)",-73.4115,40.8534
+49,"Plainsboro (NJ)",-74.6004,40.3334
+50,"Mahmudiya (Iraq)",44.3675,33.0696
+51,"Munich (Germany)",11.5755,48.1374
+52,"Copenhagen (Denmark)",12.5709,55.6777
+53,"Falls Village (Conn)",-73.3632,41.9559
+54,"Bristol (England)",-2.58333,51.45
+55,"Niagara-on-the-Lake (Ontario)",-79.0663,43.2501
+56,"Melbourne (Australia)",144.963,-37.814
+57,"Scottsdale (Ariz)",-111.899,33.5092
+58,"Cairo (Egypt)",31.25,30.05
+59,"Guimaraes (Portugal)",-8.3,41.45
+60,"Beijing (China)",116.397,39.9075
+61,"Mogadishu (Somalia)",45.3419,2.03914
+62,"Milford (Pa)",-74.8024,41.3223
+63,"Rochester (NY)",-77.6156,43.1548
+64,"Bath (England)",-2.36556,51.3794
+65,"Timbuktu (Mali)",-3.00742,16.7735
+66,"Red Bank (NJ)",-74.0643,40.3471
+67,"North Stonington (Conn)",-71.8812,41.4409
+68,"Dubai (United Arab Emirates)",55.28,25.2522
+69,"Naples (Italy)",14.25,40.8333
+70,"Kuala Lumpur (Malaysia)",101.7,3.16667
+71,"Lower East Side (NYC)",-73.9868,40.7161
+72,"Pyongyang (North Korea)",125.755,39.0194
+73,"Homer (Alaska)",-151.548,59.6425
+74,"Haditha (Iraq)",42.3781,34.1397
+75,"Calcutta (India)",88.3697,22.5697
+76,"Seoul (South Korea)",127,37.5664
+77,"Brisbane (Australia)",153.028,-27.4679
+78,"Nassau (Bahamas)",-77.35,25.0833
+79,"Monteverde (Costa Rica)",-83.4333,10.1
+80,"Antwerp (Belgium)",4.41667,51.2167
+81,"Nagasaki (Japan)",129.868,32.755
+82,"Bayreuth (Germany)",11.5783,49.9481
+83,"Lecce (Italy)",18.172,40.357
+84,"Punta Gorda (Fla)",-82.0454,26.9298
+85,"San Antonio (Tex)",-98.4936,29.4241
+86,"Ayacucho (Peru)",-74.2239,-13.1583
+87,"Roosevelt Island (NYC)",-73.9482,40.764
+88,"Juarez (Mexico)",-106.483,31.7333
+89,"Edirne (Turkey)",26.556,41.6772
+90,"Parma (Italy)",10.329,44.8027
+91,"Bay Ridge (NYC)",-74.0146,40.634
+92,"New Milford (Conn)",-73.4085,41.577
+93,"Jena (LA)",-92.1337,31.6832
+94,"Prospect Heights (NYC)",-73.9677,40.6775
+95,"Piermont (NY)",-73.9182,41.042
+96,"Sleepy Hollow (NY)",-73.8585,41.0857
+97,"Santiago de Cuba (Cuba)",-75.8219,20.0247
+98,"Bodrum (Turkey)",27.4292,37.0383
+99,"Norfolk (Va)",-76.2852,36.8468
+100,"Chinatown (NYC)",-73.9963,40.7165
+101,"Oxford (Conn)",-73.1168,41.434
+102,"Quito (Ecuador)",-78.5,-0.216667
+103,"Alajuela (Costa Rica)",-84.2167,10.0167
+104,"Sacramento (Calif)",-121.494,38.5816
+105,"Orleans (Mass)",-69.9897,41.7898
+106,"Tours (France)",0.683333,47.3833
+107,"Rovinj (Croatia)",13.64,45.08
+108,"Montauk (NY)",-71.9545,41.0359
+109,"Basra (Iraq)",47.8192,30.4942
+110,"Lucca (Italy)",10.5058,43.8436
+111,"St Petersburg (Russia)",30.2642,59.8944
+112,"Curitiba (Brazil)",-49.2731,-25.4278
+113,"Deauville (France)",0.069952,49.357
+114,"Danang (Vietnam)",108.221,16.0678
+115,"Provincetown (Mass)",-70.1786,42.0584
+116,"Eilat (Israel)",34.9517,29.5611
+117,"Vientiane (Laos)",102.6,17.9667
+118,"Brooklyn Heights (NYC)",-73.9943,40.6977
+119,"Varanasi (India)",83,25.3333
+120,"Ludlow (Vt)",-72.7007,43.3959
+121,"Sag Harbor (NY)",-72.2926,40.9979
+122,"Killarney (Ireland)",-9.51667,52.05
+123,"Battery Park City (NYC)",-74.0163,40.7115
+124,"Milwaukee (Wis)",-87.9065,43.0389
+125,"Zurich (Switzerland)",8.55,47.3667
+126,"Indianapolis (Ind)",-86.158,39.7684
+127,"Belgrade (Serbia)",20.4681,44.8186
+128,"Cortona (Italy)",11.9853,43.2747
+129,"Frankfurt (Germany)",8.68333,50.1167
+130,"Padua (Italy)",11.8818,45.4152
+131,"Estoril (Portugal)",-9.39773,38.7057
+132,"Mumbai (India)",72.8479,19.0144
+133,"Kent (Conn)",-73.4771,41.7248
+134,"Casablanca (Morocco)",-7.61,33.59
+135,"Portland (Me)",-70.2553,43.6615
+136,"Jersey City (NJ)",-74.0776,40.7282
+137,"Millau (France)",3.08333,44.1
+138,"Laguna Beach (Calif)",-117.783,33.5422
+139,"Tallinn (Estonia)",24.7535,59.437
+140,"Myrtle Beach (SC)",-78.8867,33.6891
+141,"New Rochelle (NY)",-73.7824,40.9115
+142,"Saas-Fee (Switzerland)",7.93488,46.1135
+143,"Orvieto (Italy)",12.1116,42.7195
+144,"Raleigh (NC)",-78.6386,35.7721
+145,"Kinsale (Ireland)",-8.53056,51.7075
+146,"Sydney (Australia)",151.207,-33.8679
+147,"Rincon (Puerto Rico)",-67.2499,18.3402
+148,"Cirencester (England)",-1.98333,51.7333
+149,"Quebec City (Quebec)",-71.2145,46.8123
+150,"New Castle (Del)",-75.5663,39.6621
+151,"Hong Kong",114.15,22.284
+152,"Granada (Nicaragua)",-85.95,11.9333
+153,"Pawtucket (RI)",-71.3826,41.8787
+154,"Seward (Alaska)",-149.442,60.1042
+155,"Ankara (Turkey)",32.8644,39.9272
+156,"Saugatuck (Mich)",-86.202,42.655
+157,"Auxerre (France)",3.56667,47.8
+158,"Szeged (Hungary)",20.1482,46.253
+159,"Verona (Italy)",10.9978,45.4342
+160,"Caracas (Venezuela)",-66.9167,10.5
+161,"Carnac (France)",-3.08333,47.5833
+162,"Kyoto (Japan)",135.754,35.0211
+163,"Baden-Baden (Germany)",8.25,48.75
+164,"Weimar (Germany)",11.3167,50.9833
+165,"Oranienburg (Germany)",13.2333,52.75
+166,"Kunming (China)",102.718,25.0389
+167,"Salt Lake City (Utah)",-111.891,40.7608
+168,"L'Aquila (Italy)",13.3995,42.3506
+169,"Monterey (Calif)",-121.895,36.6002
+170,"Sofia (Bulgaria)",23.3241,42.6975
+171,"Tikal (Guatemala)",-89.6133,17.225
+172,"San Francisco (Calif)",-122.419,37.7749
+173,"Toulouse (France)",1.44367,43.6043
+174,"Doha (Qatar)",51.5333,25.2867
+175,"Ashgabat (Turkmenistan)",58.3833,37.95
+176,"Sucre (Bolivia)",-65.2592,-19.0431
+177,"Madison (Wis)",-89.4012,43.0731
+178,"Madrid (Spain)",-3.70256,40.4165
+179,"Isla Mujeres (Mexico)",-86.7311,21.2311
+180,"Puntarenas (Costa Rica)",-84.8384,9.97625
+181,"San Sebastian (Spain)",-1.97499,43.3128
+182,"Scarsdale (NY)",-73.7846,41.0051
+183,"Alkmaar (Netherlands)",4.74861,52.6317
+184,"Islip (NY)",-73.2104,40.7298
+185,"Santa Fe (NM)",-105.938,35.687
+186,"Matsumoto (Japan)",137.967,36.2333
+187,"Hermanus (South Africa)",19.2333,-34.4167
+188,"Bamberg (Germany)",10.8667,49.8667
+189,"Cochabamba (Bolivia)",-66.15,-17.3833
+190,"Qum (Iran)",50.8808,34.6453
+191,"Nafplio (Greece)",22.8075,37.5636
+192,"Bilbao (Spain)",-2.92528,43.2627
+193,"Tokyo (Japan)",139.692,35.6895
+194,"Rawalpindi (Pakistan)",73.0667,33.6
+195,"Dubrovnik (Croatia)",18.0922,42.6481
+196,"Bonn (Germany)",7.1,50.7333
+197,"Biarritz (France)",-1.56667,43.4833
+198,"Mendocino (Calif)",-123.799,39.3077
+199,"Amsterdam (Netherlands)",4.8999,52.3731
+200,"Hell's Kitchen (NYC)",-73.9954,40.7573
+201,"Yangon (Myanmar)",96.1561,16.8053
+202,"Charlotte Amalie (Virgin Islands)",-64.9307,18.3419
+203,"Cortina d'Ampezzo (Italy)",12.1489,46.5361
+204,"Hoffenheim (Germany)",8.85,49.2667
+205,"Sharjah (United Arab Emirates)",55.3911,25.3622
+206,"Pittsfield (Mass)",-73.2454,42.4501
+207,"Stockholm (Sweden)",18.0649,59.3326
+208,"Hay-on-Wye (Wales)",-3.11667,52.0667
+209,"Vilnius (Lithuania)",25.3167,54.6833
+210,"Hobart (Tasmania)",147.333,-42.9167
+211,"Bergen (Norway)",5.32428,60.3932
+212,"Mammoth Lakes (Calif)",-118.972,37.6485
+213,"La Paz (Bolivia)",-68.15,-16.5
+214,"Bethel (NY)",-73.6337,41.9545
+215,"Haines (Alaska)",-135.445,59.2358
+216,"Cape Town (South Africa)",18.4167,-33.9167
+217,"Pensacola (Fla)",-87.2169,30.4213
+218,"Mystic (Conn)",-71.9665,41.3543
+219,"New Haven (Conn)",-72.9282,41.3082
+220,"Macon (Ga)",-83.6324,32.8407
+221,"Lugano (Switzerland)",8.96004,46.0101
+222,"Oslo (Norway)",10.7389,59.9132
+223,"Amara (Iraq)",47.1753,31.8453
+224,"Ho Chi Minh City (Vietnam)",106.667,10.75
+225,"Ojai (Calif)",-119.243,34.448
+226,"Santiago de Compostela (Spain)",-8.54569,42.8805
+227,"Giza (Egypt)",31.2122,30.0086
+228,"Bern (Switzerland)",7.44744,46.9481
+229,"Cleveland (Ohio)",-81.6954,41.4995
+230,"Paris (Texas)",-95.5555,33.6609
+231,"Avignon (France)",4.81667,43.95
+232,"Goreme (Turkey)",34.8639,38.6486
+233,"London (England)",-0.125533,51.5084
+234,"Hanoi (Vietnam)",105.85,21.0333
+235,"Chennai (India)",80.2785,13.0878
+236,"Armonk (NY)",-73.714,41.1265
+237,"Los Angeles (Calif)",-118.244,34.0522
+238,"Diamond District (NYC)",-73.9786,40.7566
+239,"Rotterdam (Netherlands)",4.47917,51.9225
+240,"Naypyidaw (Myanmar)",96.1297,19.745
+241,"Kufa (Iraq)",44.4033,32.0347
+242,"Petropolis (Brazil)",-43.1786,-22.505
+243,"Hague (Netherlands)",4.29861,52.0767
+244,"Korcula (Croatia)",17.1369,42.9622
+245,"Cartagena (Colombia)",-75.5144,10.3997
+246,"Agra (India)",78.0167,27.1833
+247,"Manaus (Brazil)",-60.025,-3.10194
+248,"Puerto Jimenez (Costa Rica)",-83.3167,8.53333
+249,"York (England)",-1.08333,53.9667
+250,"Verbier (Switzerland)",7.21667,46.1
+251,"Bowery (NYC)",,
+252,"Marseille (France)",5.4,43.3
+253,"Locust Valley (NY)",-73.5971,40.8759
+254,"Kelowna (British Columbia)",-119.486,49.8831
+255,"Galway (Ireland)",-9.04889,53.2719
+256,"Baquba (Iraq)",44.6411,33.75
+257,"Hue (Vietnam)",107.6,16.4667
+258,"North Salem (NY)",-73.5712,41.3348
+259,"Nashville (Tenn)",-86.7844,36.1659
+260,"Siwa (Egypt)",25.5167,29.2
+261,"Luxor (Egypt)",32.6421,25.6989
+262,"Jerusalem (Israel)",35.2253,31.779
+263,"Freeport (Me)",-70.1031,43.857
+264,"Algiers (Algeria)",3.05056,36.7631
+265,"Louisville (Ky)",-85.7594,38.2542
+266,"Dhaka (Bangladesh)",90.4086,23.7231
+267,"Udaipur (India)",73.6918,24.5712
+268,"Edinburgh (Scotland)",-3.2,55.95
+269,"Florianopolis (Brazil)",-48.5492,-27.5967
+270,"Nice (France)",7.26608,43.7031
+271,"Manila (Philippines)",120.982,14.6042
+272,"Kansas City (Mo)",-94.5786,39.0997
+273,"Samthar (India)",88.5,26.9833
+274,"Jaffna (Sri Lanka)",80,9.66667
+275,"Cannes (France)",7.01667,43.55
+276,"Puno (Peru)",-70.0333,-15.8333
+277,"Newark (NJ)",-74.1724,40.7357
+278,"Aix-en-Provence (France)",5.44973,43.5283
+279,"Mendoza (Argentina)",-68.8167,-32.8833
+280,"Montreal (Quebec)",-73.5878,45.5088
+281,"Kanazawa (Japan)",136.65,36.5667
+282,"Vevey (Switzerland)",6.84328,46.4612
+283,"Placencia (Belize)",-88.3667,16.5167
+284,"Northport (NY)",-73.3432,40.9009
+285,"Montclair (NJ)",-74.209,40.8259
+286,"Najaf (Iraq)",44.3147,31.9961
+287,"Ridgefield (Conn)",-73.4982,41.2815
+288,"Rye Brook (NY)",-73.6835,41.0193
+289,"Jaipur (India)",75.8167,26.9167
+290,"Catano (Puerto Rico)",-66.1182,18.4413
+291,"Calgary (Alberta)",-114.085,51.0501
+292,"Larchmont (NY)",-73.7518,40.9279
+293,"Hanau (Germany)",8.91667,50.1333
+294,"Taormina (Italy)",15.2885,37.8536
+295,"Guangzhou (China)",113.25,23.1167
+296,"Pecs (Hungary)",18.2333,46.0833
+297,"Kew Gardens (NYC)",-73.831,40.7143
+298,"Recife (Brazil)",-34.8811,-8.05389
+299,"Karbala (Iraq)",44.0161,32.5978
+300,"Venice (Italy)",12.3267,45.4386
+301,"Leipzig (Germany)",12.3713,51.3396
+302,"Luang Prabang (Laos)",102.135,19.8856
+303,"Key Largo (Fla)",-80.4473,25.0865
+304,"Limoges (France)",1.25,45.85
+305,"Pisa (Italy)",10.3965,43.7175
+306,"Akihabara (Tokyo)",139.767,35.7
+307,"Antalya (Turkey)",30.6897,36.9125
+308,"Samarra (Iraq)",43.8758,34.1958
+309,"Paris (France)",2.3488,48.8534
+310,"Oakland (Calif)",-122.271,37.8044
+311,"Bologna (Italy)",11.3387,44.4938
+312,"Reno (Nev)",-119.814,39.5296
+313,"Santo Domingo (Dominican Republic)",-69.9,18.4667
+314,"Bradford (England)",-1.75206,53.7939
+315,"Les Eyzies-de-Tayac (France)",1.01327,44.9359
+316,"Osaka (Japan)",135.502,34.6937
+317,"Miami (Fla)",-80.1937,25.7743
+318,"Beaune (France)",4.83333,47.0333
+319,"Chengde (China)",117.936,40.9725
+320,"Bhopal (India)",77.4,23.2667
+321,"Valencia (Spain)",-0.377387,39.4698
+322,"Lyon (France)",4.85,45.75
+323,"Luanda (Angola)",13.2344,-8.83833
+324,"Clarence Center (NY)",-78.6375,43.0106
+325,"Annecy (France)",6.11667,45.9
+326,"Siem Reap (Cambodia)",103.85,13.3667
+327,"Manchester (Vt)",-73.0723,43.1637
+328,"Omaha (Neb)",-95.9378,41.2586
+329,"Olinda (Brazil)",-34.8553,-8.00889
+330,"Ocean Grove (NJ)",-74.0065,40.2121
+331,"Puerto Morelos (Mexico)",-86.8824,20.8417
+332,"Krakow (Poland)",19.9167,50.0833
+333,"Lausanne (Switzerland)",6.63282,46.516
+334,"Bayeux (France)",-0.7,49.2667
+335,"Liverpool (England)",-2.97794,53.4106
+336,"Lanai (Hawaii)",-156.922,20.8306
+337,"Lahinch (Ireland)",-9.34528,52.9367
+338,"Malaga (Spain)",-4.42034,36.7202
+339,"Santa Monica (Calif)",-118.491,34.0195
+340,"Arles (France)",4.63031,43.6768
+341,"Zagreb (Croatia)",16,45.8
+342,"Franschhoek (South Africa)",19.1167,-33.9167
+343,"Chernobyl (Ukraine)",30.2333,51.2667
+344,"Kansas City (Kan)",-94.6275,39.1142
+345,"Veracruz (Mexico)",-96.1333,19.2
+346,"Las Cruces (NM)",-106.778,32.3123
+347,"Sarasota (Fla)",-82.5307,27.3364
+348,"Cancun (Mexico)",-86.8466,21.1743
+349,"Kabul (Afghanistan)",69.1833,34.5167
+350,"Turin (Italy)",7.68682,45.0705
+351,"Shelter Island (NY)",-72.3387,41.0682
+352,"Bormio (Italy)",10.3721,46.4684
+353,"Fujairah (United Arab Emirates)",56.3375,25.1231
+354,"Ronda (Spain)",-5.16709,36.7423
+355,"Peshawar (Pakistan)",71.5733,34.0078
+356,"Brasilia (Brazil)",-47.9297,-15.7797
+357,"Pasadena (Calif)",-118.145,34.1478
+358,"Aubusson (France)",2.16667,45.95
+359,"Nagano (Japan)",138.183,36.65
+360,"Tirana (Albania)",19.8189,41.3275
+361,"Malindi (Kenya)",40.1167,-3.21667
+362,"Basel (Switzerland)",7.6,47.5667
+363,"Mont Tremblant (Canada)",-74.6264,46.1949
+364,"Karlovy Vary (Czech Republic)",12.8712,50.2327
+365,"Cuzco (Peru)",-71.9781,-13.5183
+366,"Istanbul (Turkey)",28.9497,41.0138
+367,"Queenstown (New Zealand)",168.663,-45.0302
+368,"St Michaels (Md)",-76.2244,38.7851
+369,"Jamesport (NY)",-72.5815,40.9495
+370,"Dresden (Germany)",13.7383,51.0509
+371,"Cordoba (Spain)",-4.76667,37.8833
+372,"Split (Croatia)",16.4392,43.5089
+373,"Stellenbosch (South Africa)",18.85,-33.9333
+374,"St Moritz (Switzerland)",9.83333,46.5
+375,"Dharamsala (India)",76.3167,32.2167
+376,"Norwalk (Conn)",-73.4079,41.1176
+377,"Dublin (Ireland)",-6.24889,53.3331
+378,"Shimla (India)",77.1667,31.1
+379,"Killington (Vt)",-72.7798,43.6776
+380,"Hiroshima (Japan)",132.45,34.4
+381,"Patzcuaro (Mexico)",-101.6,19.5167
+382,"Katmandu (Nepal)",85.3167,27.7167
+383,"Lake Louise (Canada)",-116.235,51.4167
+384,"Ayodhya (India)",82.2,26.8
+385,"Damascus (Syria)",36.3,33.5
+386,"Zanzibar (Tanzania)",39.1979,-6.16394
+387,"Palenque (Mexico)",-91.9667,17.5167
+388,"Punta Gorda (Belize)",-88.8,16.1
+389,"Chachapoyas (Peru)",-77.869,-6.23169
+390,"Lafayette (La)",-92.0198,30.2241
+391,"Palmetto (Ga)",-84.6697,33.5179
+392,"Vezelay (France)",3.73333,47.4667
+393,"North Adams (Mass)",-73.1087,42.7009
+394,"Mott Haven (NYC)",-73.9229,40.809
+395,"Toledo (Spain)",-4.02263,39.8581
+396,"Buzios (Brazil)",-41.8817,-22.7469
+397,"New Brunswick (NJ)",-74.4518,40.4862
+398,"Geneva (Switzerland)",6.14569,46.2022
+399,"Chamonix (France)",6.86667,45.9167
+400,"Brussels (Belgium)",4.35277,50.8466
+401,"New Orleans (La)",-90.0751,29.9546
+402,"Bogota (Colombia)",-74.0833,4.6
+403,"Canaima (Venezuela)",-63.1917,10.6311
+404,"Metuchen (NJ)",-74.3632,40.5432
+405,"Monopoli (Italy)",17.2896,40.9559
+406,"Berchtesgaden (Germany)",13,47.6333
+407,"Lagos (Nigeria)",3.39583,6.45306
+408,"San Juan (Puerto Rico)",-66.1057,18.4663
+409,"Ushuaia (Argentina)",-68.3,-54.8
+410,"Southampton (England)",-1.4,50.9
+411,"Chengdu (China)",104.067,30.6667
+412,"St-Tropez (France)",6.63333,43.2667
+413,"Maplewood (NJ)",-74.2735,40.7312
+414,"Amenia (NY)",-73.5568,41.8493
+415,"Rossville (NYC)",-74.2135,40.5557
+416,"Falluja (Iraq)",43.7828,33.3561
+417,"Paterson (NJ)",-74.1718,40.9168
+418,"Akaroa (New Zealand)",172.97,-43.7983
+419,"Orleans (France)",1.9,47.9167
+420,"El Calafate (Argentina)",-72.2768,-50.3407
+421,"Long Beach (Calif)",-118.189,33.767
+422,"Cascais (Portugal)",-9.42146,38.6979
+423,"Verdun (France)",5.38333,49.1667
+424,"Hunts Point (NYC)",-73.884,40.8126
+425,"Dominical (Costa Rica)",-83.8667,9.25
+426,"Sago (West Va)",-80.2301,38.9143
+427,"Dragor (Denmark)",12.6664,55.5945
+428,"SoHo (NYC)",-73.9996,40.7224
+429,"Montecito (Calif)",-119.632,34.4367
+430,"Jackson (Miss)",-90.1848,32.2988
+431,"Cahors (France)",1.43663,44.4491
+432,"Ulyanovsk (Russia)",48.3858,54.3189
+433,"Strasbourg (France)",7.75,48.5833
+434,"Hopewell Junction (NY)",-73.8087,41.584
+435,"Golfito (Costa Rica)",-83.15,8.65
+436,"Passaic (NJ)",-74.1285,40.8568
+437,"Cabarete (Dominican Republic)",-70.4,19.75
+438,"Darjeeling (India)",88.2667,27.0333
+439,"Dunhuang (China)",94.6833,40.1667
+440,"Abu Dhabi (United Arab Emirates)",54.3667,24.4667
+441,"Fez (Morocco)",-4.98,34.05
+442,"St Ives (England)",-5.4875,50.2086
+443,"Colmar (France)",7.36667,48.0833
+444,"Trieste (Italy)",13.78,45.6486
+445,"Xalapa (Mexico)",-96.9167,19.5333
+446,"Hot Springs (Ark)",-93.0552,34.5037
+447,"Old Lyme (Conn)",-72.329,41.3159
+448,"Bangkok (Thailand)",100.517,13.75
+449,"Shanksville (PA)",-78.9072,40.0179
+450,"Mantua (Italy)",10.7738,45.1521
+451,"Dakar (Senegal)",-17.4439,14.6951
+452,"Aveiro (Portugal)",-8.65,40.6333
+453,"Ravenna (Italy)",12.2011,44.4175
+454,"Dafen (China)",113.378,23.9747
+455,"Long Beach (NY)",-73.6579,40.5884
+456,"Soweto (South Africa)",27.8667,-26.2667
+457,"Amalfi (Italy)",14.6024,40.6349
+458,"Versailles (France)",2.13333,48.8
+459,"Cutchogue (NY)",-72.4851,41.0107
+460,"Nantucket (Mass)",-70.0995,41.2835
+461,"San Cristobal de las Casas (Mexico)",-92.6333,16.75
+462,"Kalkan (Turkey)",29.4153,36.2656
+463,"Niagara Falls (Ontario)",-79.0663,43.1001
+464,"Lockerbie (Scotland)",-3.35,55.1167
+465,"Las Vegas (Nev)",-115.137,36.175
+466,"Messene (Greece)",22.0078,37.0511
+467,"Ixtapa (Mexico)",-101.642,17.6678
+468,"Aswan (Egypt)",32.8989,24.0875
+469,"Rio de Janeiro (Brazil)",-43.2075,-22.9028
+470,"Fontainebleau (France)",2.7,48.4
+471,"Missoula (Mont)",-113.994,46.8721
+472,"Canberra (Australia)",149.128,-35.2835
+473,"Amman (Jordan)",35.9333,31.95
+474,"Mashpee (Mass)",-70.4811,41.6484
+475,"Cadiz (Spain)",-6.29944,36.5336
+476,"Sheepshead Bay (NYC)",-73.9446,40.5912
+477,"Bordeaux (France)",-0.566667,44.8333
+478,"Honolulu (Hawaii)",-157.858,21.3069
+479,"Bourges (France)",2.4,47.0833
+480,"Scranton (Pa)",-75.6624,41.409
+481,"Silver City (NM)",-108.28,32.7701
+482,"Chartres (France)",1.48925,48.4469
+483,"Nagoya (Japan)",136.906,35.1815
+484,"Montgomery (Ala)",-86.3,32.3668
+485,"Manchester (NH)",-71.4548,42.9956
+486,"Cahuita (Costa Rica)",-82.85,9.73333
+487,"Cochin (India)",76.2333,9.96667
+488,"Glasgow (Scotland)",-4.25763,55.8652
+489,"Hood River (Ore)",-121.521,45.7054
+490,"Sochi (Russia)",39.7303,43.6
+491,"Palisades Park (NJ)",-73.9976,40.8482
+492,"Salem (Mass)",-70.8967,42.5195
+493,"Ocean City (Md)",-75.0849,38.3365
+494,"Urgup (Turkey)",34.9131,38.6314
+495,"Inwood (NYC)",-73.9268,40.8657
+496,"City Island (NYC)",-73.7865,40.8473
+497,"Helsinki (Finland)",24.9342,60.1756
+498,"Marathon (Fla)",-81.0904,24.7138
+499,"Phuket (Thailand)",98.4,7.88333
+500,"Santa Barbara (Calif)",-119.698,34.4208
+501,"Port Elizabeth (South Africa)",25.5833,-33.9667
+502,"Sintra (Portugal)",-9.38333,38.8
+503,"Orlando (Fla)",-81.3792,28.5383
+504,"Niagara Falls (NY)",-79.0567,43.0945
+505,"Belize City (Belize)",-88.1976,17.4995
+506,"Johannesburg (South Africa)",28.0833,-26.2
+507,"Antigua (Guatemala)",-90.7344,14.5611
+508,"Courchevel (France)",6.65,45.4167
+509,"Huntington Beach (Calif)",-117.999,33.6603
+510,"Oklahoma City (Okla)",-97.5164,35.4676
+511,"Genoa (Italy)",8.93386,44.4063
+512,"Liberia (Costa Rica)",-85.4333,10.6333
+513,"Uppsala (Sweden)",17.6454,59.8585
+514,"Durban (South Africa)",31.0167,-29.85
+515,"Cambridge (England)",0.116667,52.2
+516,"Grasse (France)",6.91667,43.6667
+517,"Dusseldorf (Germany)",6.77616,51.2217
+518,"Rome (Italy)",12.4833,41.9
+519,"Sderot (Israel)",34.5833,31.5167
+520,"Cologne (Germany)",6.95,50.9333
+521,"Mosul (Iraq)",43.1189,36.335
+522,"Thessaloniki (Greece)",22.9439,40.6403
+523,"Rockland (Me)",-69.1089,44.1037
+524,"Chichen Itza (Mexico)",-88.5667,20.6667
+525,"Cobble Hill (NYC)",-73.9981,40.6875
+526,"Garment District (NYC)",-73.9935,40.752
+527,"Bedford-Stuyvesant (NYC)",-73.9412,40.6834
+528,"Vina del Mar (Chile)",-71.5518,-33.0246
+529,"Klosterneuburg (Austria)",16.3252,48.3052
+530,"San Diego (Calif)",-117.157,32.7153
+531,"La Rochelle (France)",-1.15,46.1667
+532,"Szentendre (Hungary)",19.0756,47.6694
+533,"Palm Springs (Calif)",-116.545,33.8303
+534,"Cardiff (Wales)",-3.18,51.48
+535,"Boquete (Panama)",-82.4333,8.78333
+536,"Cork (Ireland)",-8.49583,51.8986
+537,"Falmouth (Mass)",-70.6148,41.5515
+538,"Irvington (NJ)",-74.2349,40.7323
+539,"Giverny (France)",1.53333,49.0667
+540,"Stuttgart (Germany)",9.17702,48.7823
+541,"Millbrook (NY)",-73.694,41.7851
+542,"Ajman (United Arab Emirates)",55.435,25.4111
+543,"Riga (Latvia)",24.1,56.95
+544,"St Paul (Minn)",-93.0933,44.9444
+545,"Pattaya (Thailand)",100.883,12.9333
+546,"Merka (Somalia)",44.8833,1.71667
+547,"Oxford (England)",-1.25596,51.7522
+548,"Pawling (NY)",-73.6026,41.562
+549,"Providence (RI)",-71.4128,41.824
+550,"San Miguel de Allende (Mexico)",-100.75,20.9167
+551,"Simi Valley (Calif)",-118.781,34.2694
+552,"Malmo (Sweden)",13.0007,55.6059
+553,"Ogunquit (Me)",-70.5992,43.249
+554,"Honfleur (France)",0.232944,49.4199
+555,"Bam (Iran)",58.3619,29.1078
+556,"Tel Aviv (Israel)",34.7647,32.0678
+557,"Kiawah Island (SC)",-80.0848,32.6082
+558,"Red Hook (NYC)",-74.0047,40.6753
+559,"Bursa (Turkey)",29.0611,40.1917
+560,"Fukuoka (Japan)",130.4,33.5833
+561,"Nantes (France)",-1.55336,47.2173
+562,"Madison (Conn)",-72.5984,41.2795
+563,"Minneapolis (Minn)",-93.2638,44.98
+564,"Richmond (Va)",-77.4603,37.5538
+565,"Santiago (Chile)",-70.5666,-33.4263
+566,"Shenzhen (China)",114.068,22.5455
+567,"Nasiriya (Iraq)",46.2594,31.0542
+568,"Davos (Switzerland)",9.83723,46.8043
+569,"Long Branch (NJ)",-73.9924,40.3043
+570,"Silverton (Colo)",-107.665,37.8119
+571,"Natal (Brazil)",-35.2094,-5.795
+572,"Xian (China)",108.929,34.2583
+573,"Panama City (Panama)",-79.5333,8.96667
+574,"Luxembourg City (Luxembourg)",6.13,49.6117
+575,"Jackson Heights (NYC)",-73.8854,40.7557
+576,"Salvador (Brazil)",-38.5108,-12.9711
+577,"Kandahar (Afghanistan)",65.7,31.61
+578,"Princeton (NJ)",-74.659,40.3487
+579,"Darwin (Australia)",130.842,-12.4611
+580,"Blackpool (England)",-3.05,53.8167
+581,"Seneca Falls (NY)",-76.7966,42.9106
+582,"Delft (Netherlands)",4.35556,52.0067
+583,"Yokohama (Japan)",139.65,35.45
+584,"Hanover (Germany)",9.73322,52.3705
+585,"Millerton (NY)",-73.5107,41.9537
+586,"Crans-sur-Sierre (Switzerland)",7.47914,46.3132
+587,"Autun (France)",4.3,46.95
+588,"Hamburg (Germany)",10,53.55
+589,"Athens (Greece)",23.7333,37.9833
+590,"Long Island City (NYC)",-73.9487,40.7448
+591,"Mazatlan (Mexico)",-106.417,23.2167
+592,"Gaiman (Argentina)",-65.4833,-43.2833
+593,"Beirut (Lebanon)",35.5097,33.8719
+594,"Salzburg (Austria)",13.044,47.7994
+595,"Newport (RI)",-71.3128,41.4901
+596,"Buenos Aires (Argentina)",-58.4088,-34.5761
+597,"Birmingham (England)",-1.91667,52.4667
+598,"Kashgar (China)",75.9797,39.4547
+599,"Adelaide (Australia)",138.6,-34.9333
+600,"Seaside (Fla)",-86.1416,30.321
+601,"New Bedford (Mass)",-70.9342,41.6362
+602,"Kitzbuhel (Austria)",12.3921,47.4464
+603,"Manchester (England)",-2.23743,53.4809
+604,"Kirkuk (Iraq)",44.3922,35.4681
+605,"Ogden (Utah)",-111.974,41.223
+606,"Nelson (British Columbia)",-117.286,49.4999
+607,"Napa (Calif)",-122.286,38.2971
+608,"Cuenca (Ecuador)",-78.9833,-2.88333
+609,"Perugia (Italy)",12.3829,43.0967
+610,"Lahore (Pakistan)",74.3436,31.5497
+611,"Portsmouth (NH)",-70.7626,43.0718
+612,"Hua Hin (Thailand)",99.9588,12.5706
+613,"Revelstoke (British Columbia)",-118.202,50.9832
+614,"Cuernavaca (Mexico)",-99.25,18.9167
+615,"Broome (Australia)",122.233,-17.9667
+616,"Hamilton Heights (NYC)",-73.95,40.8244
+617,"Oxford (Miss)",-89.5192,34.3665
+618,"Phnom Penh (Cambodia)",104.917,11.55
+619,"Berlin (Germany)",13.4,52.5167
+620,"Segovia (Spain)",-4.11667,40.95
+621,"Granada (Spain)",-3.60667,37.1882
+622,"Bridgehampton (NY)",-72.3009,40.9379
+623,"Marfa (Tex)",-104.019,30.3079
+624,"Addis Ababa (Ethiopia)",38.7,9.03333
+625,"Ocracoke (NC)",-75.981,35.1146
+626,"Kennebunkport (Me)",-70.4767,43.3618
+627,"Menton (France)",7.50435,43.7765
+628,"Punta Arenas (Chile)",-70.9167,-53.15
+629,"Sandwich (Mass)",-70.4939,41.759
+630,"Marrakesh (Morocco)",-8,31.63
+631,"Manteca (Calif)",-121.216,37.7974
+632,"Palermo (Italy)",13.3598,38.1158
+633,"Potsdam (Germany)",13.0657,52.3989
+634,"Park City (Utah)",-111.498,40.6461
+635,"Bruges (Belgium)",3.225,51.2098
+636,"Roosevelt (NY)",-73.589,40.6787
+637,"Garrison (NY)",-73.9457,41.384
+638,"Villarrica (Chile)",-72.2279,-39.2857
+639,"Brighton (England)",-0.139475,50.8284
+640,"Maspeth (NYC)",-73.9126,40.7232
+641,"Taipei (Taiwan)",121.525,25.0392
+642,"Almagro (Spain)",-3.71667,38.8833
+643,"Monhegan Island (Me)",-69.3114,43.7665
+644,"Belem (Brazil)",-48.5044,-1.45583
+645,"Mexico City (Mexico)",-99.1386,19.4342
+646,"Budapest (Hungary)",19.0833,47.5
+647,"Skaneateles (NY)",-76.4291,42.947
+648,"Short Hills (NJ)",-74.3254,40.7479
+649,"Ossining (NY)",-73.8615,41.1629
+650,"Tikrit (Iraq)",43.6769,34.5967
+651,"San Jose (Costa Rica)",-84.0833,9.93333
+652,"Hakone (Japan)",139.033,35.1833
+653,"Newburyport (Mass)",-70.8773,42.8126
+654,"Islamabad (Pakistan)",73.0591,33.61
+655,"Kaesong (North Korea)",126.554,37.9708
+656,"Corinth (Greece)",22.9322,37.9378
+657,"Ramadi (Iraq)",43.3093,33.4235
+658,"Memphis (Tenn)",-90.049,35.1495
+659,"Portland (Ore)",-122.676,45.5235
+660,"Baghdad (Iraq)",44.3939,33.3386
+661,"Warsaw (Poland)",21,52.25
+662,"San Luis Obispo (Calif)",-120.66,35.2828
+663,"Bucharest (Romania)",26.1,44.4333
+664,"Nancy (France)",6.2,48.6833
+665,"Jacksonville (Fla)",-81.6556,30.3322
+666,"Beslan (Russia)",44.5388,43.1919
+667,"Reykjavik (Iceland)",-21.9423,64.146
+668,"Heidelberg (Germany)",8.69079,49.4077
+669,"Plovdiv (Bulgaria)",24.75,42.15
+670,"Sausalito (Calif)",-122.485,37.8591
+671,"New Paltz (NY)",-74.0868,41.7476
+672,"Moab (Utah)",-109.55,38.5733
+673,"Interlaken (Switzerland)",7.85,46.6833
+674,"Assisi (Italy)",12.6165,43.0691
+675,"Qingdao (China)",120.372,36.0986
+676,"Gijon (Spain)",-5.66444,43.5411
+677,"Dunedin (New Zealand)",170.504,-45.8742
+678,"Houston (Tex)",-95.3633,29.7633
+679,"Leeds (England)",-1.54785,53.7965
+680,"Fortaleza (Brazil)",-38.5431,-3.71722
+681,"Port Jefferson (NY)",-73.0693,40.9465
+682,"Saratoga Springs (NY)",-73.7846,43.0831
+683,"Phoenix (Ariz)",-112.074,33.4484
+684,"San Jose del Cabo (Mexico)",-109.683,23.05
+685,"La Jolla (Calif)",-117.274,32.8473
+686,"Key West (Fla)",-81.7915,24.5546
+687,"Chappaqua (NY)",-73.7649,41.1595
+688,"Oxnard (Calif)",-119.177,34.1975
+689,"New London (Conn)",-72.0995,41.3557
+690,"Athenry (Ireland)",-8.74306,53.2964
+691,"Mobile (Ala)",-88.0431,30.6944
+692,"Innsbruck (Austria)",11.3945,47.2627
+693,"Siena (Italy)",11.3328,43.32
+694,"Santa Cruz (Calif)",-122.031,36.9741
+695,"Manhattan (NYC)",-74.006,40.7143
+696,"Urumqi (China)",87.5833,43.8
+697,"Juneau (Alaska)",-134.42,58.3019
+698,"Islamorada (Fla)",-80.6278,24.9243
+699,"Chiang Mai (Thailand)",98.9817,18.7903
+700,"Huntsville (Ala)",-86.5861,34.7304
+701,"Park Slope (NYC)",-73.986,40.6701
+702,"Jakarta (Indonesia)",106.829,-6.17444
+703,"Goteborg (Sweden)",11.9668,57.7072
+704,"Poughkeepsie (NY)",-73.921,41.7004
+705,"Jamaica (NYC)",-73.8057,40.6915
+706,"Peekskill (NY)",-73.9204,41.2901
+707,"Kobe (Japan)",135.167,34.6833
+708,"Natchez (Miss)",-91.4032,31.5604
+709,"San German (Puerto Rico)",-67.0449,18.0816
+710,"Dijon (France)",5.01667,47.3167
+711,"Naples (Fla)",-81.7948,26.142
+712,"Ottawa (Ontario)",-75.6903,45.4209
+713,"Birkenau (Poland)",15.0333,51.9667
+714,"Ani (Turkey)",43.5667,40.5333
+715,"Isle of Palms (SC)",-79.7948,32.7868
+716,"Bangalore (India)",77.6033,12.9762
+717,"Rehoboth Beach (Del)",-75.076,38.7209
+718,"Khartoum (Sudan)",32.5342,15.5881
+719,"Graz (Austria)",15.45,47.0667
+720,"Milan (Italy)",9.18951,45.4643
+721,"New Delhi (India)",77.2311,28.6128
+722,"Ljubljana (Slovenia)",14.5144,46.0553
+723,"Milford (Conn)",-73.0565,41.2223
+724,"Portofino (Italy)",9.20942,44.3035
+725,"New Canaan (Conn)",-73.4948,41.1468
+726,"Carmel (Calif)",-121.923,36.5552
+727,"Spoleto (Italy)",12.7374,42.7448
+728,"Corona (NYC)",-73.8601,40.747
+729,"Morningside Heights (NYC)",-73.9625,40.81
+730,"Morelia (Mexico)",-101.184,19.7008
+731,"Ferrara (Italy)",11.6207,44.8268
+732,"Pittsburgh (Pa)",-79.9959,40.4406
+733,"Beverley (England)",-0.423317,53.8459
+734,"Sao Paulo (Brazil)",-46.6361,-23.5475
+735,"Sedona (Ariz)",-111.761,34.8697
+736,"Ithaca (NY)",-76.4966,42.4406
+737,"Lima (Peru)",-77.05,-12.05
+738,"Florence (Italy)",11.25,43.7667
+739,"New York City",-74.006,40.7143
+740,"Alta (Utah)",-111.638,40.5888
+741,"Dingle (Ireland)",-10.2689,52.1408
+742,"Dar es Salaam (Tanzania)",39.2833,-6.8
+743,"Barcelona (Spain)",2.15899,41.3888
+744,"Knoxville (Tenn)",-83.9207,35.9606
+745,"Palm Beach (Fla)",-80.0364,26.7056
+746,"Regensburg (Germany)",12.0956,49.015
+747,"Perth (Australia)",115.833,-31.9333
+748,"Lucerne (Switzerland)",8.30635,47.0505
+749,"Vladivostok (Russia)",131.874,43.1056
+750,"Lake Placid (NY)",-73.9799,44.2795
+751,"Essaouira (Morocco)",-9.76,31.51
+752,"Carcassonne (France)",2.35,43.2167
+753,"Amagansett (NY)",-72.1437,40.9737
+754,"Dalian (China)",121.602,38.9122
